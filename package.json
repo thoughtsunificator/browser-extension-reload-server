@@ -1,0 +1,17 @@
+{
+	"name": "browser-extension-reload-server",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Browser extension reload server",
+	"main": "server.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thoughtsunificator/browser-extension-reload-server.git"
+	},
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/browser-extension-reload-server/issues"
+	},
+	"homepage": "https://github.com/thoughtsunificator/browser-extension-reload-server#readme"
+}
